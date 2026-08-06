@@ -65,18 +65,7 @@
 
 | | |
 |---|---|
-| 개발자 | [  개발자명 또는 상호  ] |
-| 이메일 | [  공개 연락처 이메일  ] |
+| 개발자 | [  WildStorm82  ] |
+| 이메일 | [  WildStorm8282@gmail.com  ] |
 
 ---
-
-### 게시 방법 (GitHub Pages, 무료)
-
-1. 공개 저장소를 하나 만든다 (예: `svb-privacy`)
-2. 이 파일을 `index.md` 로 올린다
-3. Settings → Pages → Source 를 `main` 브랜치로 지정
-4. 몇 분 뒤 `https://<계정>.github.io/svb-privacy/` 가 열린다
-5. 그 URL 을 Play Console 의 개인정보처리방침 칸에 넣는다
-
-> Play Console 은 **접속 가능한 공개 URL** 을 요구한다. 로그인이 필요하거나 접속이
-> 안 되면 검토에서 반려된다. 넣기 전에 시크릿 창으로 한 번 열어볼 것.
