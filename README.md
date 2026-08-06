@@ -63,7 +63,7 @@
 | | |
 |---|---|
 | 개발자 | [  WildStorm82  ] |
-| 이메일 | [  WildStorm8282@gmail.com  ] |
+| 이메일 | [  wildstorm8282@gmail.com  ] |
 
 
 
